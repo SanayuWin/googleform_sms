@@ -69,3 +69,6 @@ function onFormSubmit(e) {
 }
 
 ```
+#### Thanks
+
+Winny Freedom
