@@ -1,8 +1,9 @@
-Google Forms for send SMS
+# Google Forms for send SMS
 
-<br />
-script
+คุณสามารถทดสอบ API สำหรับส่ง SMS ได้ฟรีจำนวน 50 SMS
+ศึกษา API สำหรับส่ง SMS ได้ที่ https://www.taximail.com/en/support/api/sms
 
+```js
 function onFormSubmit(e) {
 
   var form = FormApp.openById('FORM ID'); 
@@ -66,3 +67,5 @@ function onFormSubmit(e) {
   
  
 }
+
+```
