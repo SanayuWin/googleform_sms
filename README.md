@@ -71,4 +71,4 @@ function onFormSubmit(e) {
 ```
 #### Thanks
 
-Winny Freedom
+Win'ny Freedom
